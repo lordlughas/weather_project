@@ -1,0 +1,26 @@
+{
+  "name": "weather_project",
+  "version": "1.0.0",
+  "description": "simple weather project using API",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/lordlughas/weather_project.git"
+  },
+  "keywords": [
+    "weather",
+    "forecast"
+  ],
+  "author": "Charles Lughas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordlughas/weather_project/issues"
+  },
+  "homepage": "https://github.com/lordlughas/weather_project#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
